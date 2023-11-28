@@ -16,6 +16,10 @@ const Navbar = () => {
                     </li>
                 ))}
             </ul>
+
+            <div className='sm:hidden'>
+
+            </div>
         </nav>
     )
 }
