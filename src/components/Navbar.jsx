@@ -5,8 +5,8 @@ import { navLinks } from '../constants'
 
 const Navbar = () => {
     return (
-        <nav>
-            
+        <nav className='w-full flex py-6 justify-between'>
+
         </nav>
     )
 }
