@@ -1,4 +1,4 @@
-# a_bit_reactg
+# a_bit_react
 
 ![final image](./final.png)
 
